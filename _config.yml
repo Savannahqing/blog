@@ -120,7 +120,7 @@ baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: hell boy
+title: hello boy
 description: 茕茕白兔，东走西顾，衣不如新，人不如故
 theme: merlot 
 disqusname: tenny1225
