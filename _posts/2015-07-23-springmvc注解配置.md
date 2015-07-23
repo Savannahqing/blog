@@ -1,9 +1,9 @@
-...
+---
 layout:default
 title:spring mvc代码配置
 comments:false
 category: java
-...
+---
 
 ##注解方式配置
 ```java
