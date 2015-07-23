@@ -66,7 +66,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #ffffff;
   text-shadow: none;
 }
 
@@ -247,7 +247,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
+  background: #009688;
 }
 
 #header_wrap .inner {
