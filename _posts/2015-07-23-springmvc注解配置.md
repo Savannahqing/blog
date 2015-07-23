@@ -1,8 +1,8 @@
 ---
-layout:post
-title:spring mvc代码配置
-comments:false
-category: java
+layout: post
+title: springmvc注解配置
+category: 技术
+comments: true
 ---
 
 ##注解方式配置
