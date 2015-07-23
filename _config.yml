@@ -65,8 +65,8 @@ nav:
 
 #Author config
 author:
-    name: tenny1109
-    email: isxz1439@qq.com
+    name: Savannahqing
+    email: 1246570068@qq.com
     imageLink: https://avatars.githubusercontent.com/minixalpha
     simpleIntro: Savannahqing
     detailIntro:
@@ -121,7 +121,7 @@ markdown: redcarpet
 safe: false
 highlighter: pygments
 title: Savannahqing的博客
-description: 我是传奇
+description: 请相信，美好的事情即将发生
 theme: kunka 
 disqusname: Savannahqing
 
