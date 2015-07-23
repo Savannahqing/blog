@@ -1,5 +1,5 @@
 ---
-layout:default
+layout:slate
 title:spring mvc代码配置
 comments:false
 category: java
