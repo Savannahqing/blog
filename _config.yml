@@ -120,7 +120,7 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: hello boy
+title: tenny1109's blog
 description: 茕茕白兔，东走西顾，衣不如新，人不如故
 theme: slate 
 disqusname: tenny1225
