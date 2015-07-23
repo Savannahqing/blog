@@ -2,7 +2,7 @@
 layout: post
 title: springmvc注解配置
 category: 技术
-comments: true
+comments: false
 ---
 
 ##注解方式配置
